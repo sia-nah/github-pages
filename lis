@@ -1,0 +1,124 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Екосистема лісу</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/theme/black.css">
+    <style>
+        section {
+            font-size: 24px;
+            text-align: left;
+        }
+        .background-image {
+            background-size: cover;
+            background-position: center;
+        }
+    </style>
+</head>
+<body>
+
+<div class="reveal">
+    <div class="slides">
+        <section style="text-align: center;">
+            <h2>Екосистема лісу</h2>
+            <p>Автор: Олександр Іваненко</p>
+            <p>Науковий керівник: Д-р біол. наук Тетяна Петрівна Сидоренко</p>
+        </section>
+
+        <section class="background-image" style="background-image: url('https://source.unsplash.com/1600x900/?forest');">
+            <h2>Вступ</h2>
+            <p>Ліс — це складна екосистема, що складається з дерев, чагарників, трав'янистих рослин, тварин і мікроорганізмів.</p>
+        </section>
+
+        <section>
+            <h2>Об'єкт дослідження</h2>
+            <ul>
+                <li class="fragment">Деревна рослинність (дерева, чагарники)</li>
+                <li class="fragment">Ґрунтові умови (структура, вологість)</li>
+                <li class="fragment">Мікроклімат (температура, вологість повітря)</li>
+                <li class="fragment">Взаємодія з навколишнім середовищем (тварини, мікроорганізми)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Предмет та завдання дослідження</h2>
+            <ul>
+                <li class="fragment">Вивчити видове різноманіття лісової рослинності.</li>
+                <li class="fragment">Оцінити вплив кліматичних умов на розвиток лісів.</li>
+                <li class="fragment">Дослідити взаємодію між видами в лісі.</li>
+            </ul>
+        </section>
+
+        <section class="background-image" style="background-image: url('https://source.unsplash.com/1600x900/?trees');">
+            <h2>Робоча гіпотеза</h2>
+            <p>Ліси є важливими для підтримки біорізноманіття.</p>
+        </section>
+
+        <section>
+            <h2>Методи дослідження</h2>
+            <ul>
+                <li class="fragment">Польові спостереження.</li>
+                <li class="fragment">Лабораторні аналізи.</li>
+                <li class="fragment">Анкетування.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Результати дослідження</h2>
+            <ul>
+                <li class="fragment">Ліси забезпечують середовище для багатьох видів рослин і тварин.</li>
+                <li class="fragment">Кліматичні зміни можуть призводити до зміни складу видів у лісі.</li>
+                <li class="fragment">Ліси є складними системами.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Фактори впливу на різноманітність організмів</h2>
+            <ul>
+                <li class="fragment">Абіотичні фактори: клімат та ґрунт.</li>
+                <li class="fragment">Біотичні фактори: конкуренція та хижацтво.</li>
+                <li class="fragment">Антропогенні фактори: забруднення та зміни в землекористуванні.</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Висновки</h2>
+            <p>Екосистема лісу є важливою частиною глобального екологічного балансу.</p>
+        </section>
+
+        <section>
+            <h2>Запитання до аудиторії</h2>
+            <ul>
+                <li class="fragment">Які основні функції лісів у природі?</li>
+                <li class="fragment">Як людина впливає на лісові екосистеми?</li>
+                <li class="fragment">Що можна зробити для збереження лісів?</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Використана література</h2>
+            <ol>
+                <li class="fragment">Гнатюк, І. М. (2021). Біорізноманіття лісових екосистем України.</li>
+                <li class="fragment">Коваленко, О. П., & Іваненко, А. (2020). Ліси як екосистеми.</li>
+                <li class="fragment">Петрова, Л. М. (2019). Охорона природних ресурсів і сталий розвиток.</li>
+            </ol>
+        </section>
+
+    </div><!-- .slides -->
+</div><!-- .reveal -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.3.1/reveal.js"></script>
+
+<script>
+// Initialize Reveal.js
+Reveal.initialize({
+    hash: true,
+    slideNumber: true,
+    transition: 'fade',
+    backgroundTransition: 'slide',
+});
+</script>
+
+</body>
+</html>
